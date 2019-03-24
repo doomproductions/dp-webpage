@@ -1,0 +1,25 @@
+/* Keep everyting uinform and fill the page */
+html {
+	background-color:#1c1c1c;
+	font-family:Roboto;
+}
+body {
+	background-color:white;
+	padding:1%;
+	width:50%;
+	margin-left:24%
+}
+.follow_form {
+	padding:2%
+}
+
+
+
+
+
+/* only use #placeholder for testing design/layout */
+#placeholder {
+	text-align: center;
+	font-size:50px;
+	font-style:bold;
+}
